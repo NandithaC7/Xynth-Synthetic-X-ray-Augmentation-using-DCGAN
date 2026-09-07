@@ -1,0 +1,30 @@
+# Dataset (large files)
+dataset/
+COVID-19_Radiography_Dataset/
+augmented_dataset/
+
+# Model outputs & weights
+backend/outputs/
+*.pth
+*.pt
+*.ckpt
+
+# Environment
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp

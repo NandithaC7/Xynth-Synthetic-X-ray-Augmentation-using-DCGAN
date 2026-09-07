@@ -1,0 +1,1 @@
+"""Xynth FastAPI application package."""
